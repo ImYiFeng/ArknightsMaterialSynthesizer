@@ -1,0 +1,2 @@
+# ArknightsMaterialSynthesizer
+明日方舟材料合成分析器，自动计算上位材料合成
